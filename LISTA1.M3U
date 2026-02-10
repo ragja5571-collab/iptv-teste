@@ -4693,7 +4693,7 @@ http://conecdg.me:80/live/05433519/50794365/3932509.m3u8
 http://conecdg.me:80/live/05433519/50794365/3916258.m3u8
 #EXTINF:-1 type="stream" tvg-id="ZooMoo SD²" tvg-logo="http://tbsrv.me/images/Biifm5rtdRqCOVgLYDRxM5LqCCrf0Yp_0mekcJAA3qB0ZuJryx6kTK4xJpoXlmQHb063BA4YpuSuNvRbkyydxA.png" group-title="CANAIS | INFANTIS",ZooMoo SD²
 http://conecdg.me:80/live/05433519/50794365/3932510.m3u8
-
+Filmes
 #EXTM3U size="Medium"
 #EXTINF:-1 type="video" tvg-id="Viagem para Agartha (2011)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/hgjyoE10IrjpkQ34qWNN1mWmNCT.jpg" description="",Viagem para Agartha (2011)
 http://conecdg.me:80/movie/05433519/50794365/4290917.mp4
@@ -9242,3 +9242,4 @@ http://conecdg.me:80/movie/05433519/50794365/3887992.mp4
 http://conecdg.me:80/movie/05433519/50794365/3887882.mp4
 #EXTINF:-1 type="video" tvg-id="Conexão Ásia (2016)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/u6TUXvmU7dUC5EbFR7sQVH8EaJT.jpg" description="",Conexão Ásia (2016)
 http://conecdg.me:80/movie/05433519/50794365/3887862.mp4
+
